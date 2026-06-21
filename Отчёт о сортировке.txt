@@ -1,0 +1,48 @@
+=== ОТЧЁТ О СОРТИРОВКЕ ФАЙЛОВ ===
+Папка: C:/Users/admin/Desktop/MyOrganizer/test
+Перемещено: 0 файлов
+Пропущено (уже были): 10 файлов
+Не определено: 1 файлов
+========================================
+
+******************************
+2026-06-21 14:01:49
+Вы выбрали папку: C:/Users/admin/Desktop/MyOrganizer/test
+Начинаю сортировку папки: C:/Users/admin/Desktop/MyOrganizer/test
+Библиотеки загружены, все работает!
+Файл 7.jpg уже есть в images, пропускаем.
+Файл Bewerbungs.txt уже есть в documents, пропускаем.
+Файл Bredberi_Rey__451°_po_Farengeytu_(perevod_Tatyanyi_Shinkar).zip уже есть в archives, пропускаем.
+Файл Cccccccc P.docx уже есть в documents, пропускаем.
+Файл index1.html уже есть в scripts, пропускаем.
+Файл Linux_Fundamentals_Module_Cheat_Sheet.pdf уже есть в documents, пропускаем.
+Файл ludere deorum dop.docx уже есть в documents, пропускаем.
+Файл MassEffect3 2026-06-18 12-56-38-69.png уже есть в images, пропускаем.
+Файл script.js уже есть в scripts, пропускаем.
+Файл script1.js уже есть в scripts, пропускаем.
+Не знаю что делать с Survivor Burning Heart (Video).m4a, оставил на месте
+******************************
+=== ОТЧЁТ О СОРТИРОВКЕ ФАЙЛОВ ===
+Папка: C:/Users/admin/Desktop/MyOrganizer/test
+Перемещено: 0 файлов
+Пропущено (уже были): 10 файлов
+Не определено: 1 файлов
+========================================
+
+******************************
+2026-06-21 14:02:11
+Вы выбрали папку: C:/Users/admin/Desktop/MyOrganizer/test
+Начинаю сортировку папки: C:/Users/admin/Desktop/MyOrganizer/test
+Библиотеки загружены, все работает!
+Файл 7.jpg уже есть в images, пропускаем.
+Файл Bewerbungs.txt уже есть в documents, пропускаем.
+Файл Bredberi_Rey__451°_po_Farengeytu_(perevod_Tatyanyi_Shinkar).zip уже есть в archives, пропускаем.
+Файл Cccccccc P.docx уже есть в documents, пропускаем.
+Файл index1.html уже есть в scripts, пропускаем.
+Файл Linux_Fundamentals_Module_Cheat_Sheet.pdf уже есть в documents, пропускаем.
+Файл ludere deorum dop.docx уже есть в documents, пропускаем.
+Файл MassEffect3 2026-06-18 12-56-38-69.png уже есть в images, пропускаем.
+Файл script.js уже есть в scripts, пропускаем.
+Файл script1.js уже есть в scripts, пропускаем.
+Не знаю что делать с Survivor Burning Heart (Video).m4a, оставил на месте
+******************************
