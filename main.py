@@ -22,6 +22,17 @@ root = Tk()
 root.title("Сортировка")
 #root.withdraw()
 
+def center_window(window):
+    window.update_idletasks()
+    width = window.winfo_width()
+    height = window.winfo_height()
+    screen_width = window.winfo_screenwidth()
+    screen_height = window.winfo_screenheight()
+    x = (screen_width - width) // 2
+    y = (screen_height - height) // 2
+    window.geometry(f"{width}x{height}+{x}+{y}")
+
+
 
 def clicked():
     
@@ -39,9 +50,11 @@ def clicked():
     confirm = Toplevel(root)
     confirm.title("Потверждение")
 
-    confirm.geometry('400x250')
+    confirm.geometry('200x50')
     confirm.transient(root)
     confirm.grab_set()
+    
+    center_window(confirm)
         
     lbl2 = Label(confirm, text = 'Этот скрипт переместит все файлы в папке. Вы уверены?', font = ('Arial', 21))
 
@@ -137,7 +150,7 @@ rules = {
     'video': ['.mp4']
     }
 
-
+center_window(root)
 
 root.mainloop() #не позволяет окну прятаться
 
